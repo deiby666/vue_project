@@ -1,4 +1,6 @@
-# S1_VUE_JS
+# project vue_js
+
+![Vue.js Logo](./src/assets/images/vue.png)
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -8,8 +10,11 @@ This template should help get you started developing with Vue 3 in Vite.
 
 ## Type Support for `.vue` Imports in TS
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
+this project is meant for users who want to connect with work teams and other people, they can show all their informations such as
+their data for contact and projects made
 
+## Customize configuration
+git hub repository: https://github.com/deiby666/vue_project.git
 ## Customize configuration
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
